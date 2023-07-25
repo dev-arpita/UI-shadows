@@ -7,7 +7,7 @@ body {
     height: 100vh;
     display: grid;
     place-content: center;
-    background: #E9E9E9;
+    background: white;
 }
 
 .card {
@@ -17,7 +17,7 @@ body {
     background: white;
     border-radius: .4em;
     text-align: center;
-    box-shadow: 0 0 30px rgba(0,0,0,0.12);
+    box-shadow: 0 0 40px rgba(0, 0, 0, .12)
 }
 /* box-shadow: horizontal vertical blur color; 
        box-shadow: 10px 10px 10px rgba(0,0,0,0.5); */
